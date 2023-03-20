@@ -96,6 +96,5 @@ For macOS and Linux, edit file with sudo permissions
 
 ## Examples
 
-boby';#
-', salary='1' where name='boby';#
-![image](https://user-images.githubusercontent.com/5400455/226248160-7ebe61b0-3952-42b9-8c1b-15457a449aeb.png)
+* boby';#
+* ', salary='1' where name='boby';#
