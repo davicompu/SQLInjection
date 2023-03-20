@@ -82,7 +82,7 @@ To stop the docker containers, you can run the following command:
 
 > docker-compose down
 
-## 9. To access the server from any terminal, do not forget to add the following IP address and the domain
+## 9. To access the server from any terminal, do not forget to add the following IP address and the domain in your local host file
 
 > "IP_ADDRESS" www.seed-server.com
 
