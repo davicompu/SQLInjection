@@ -51,7 +51,7 @@ The link to the GitHub repository is the following: https://github.com/seed-labs
 
 Install unzip in the virtual machine
 
-> apt install unzip
+> sudo apt-get install unzip
 
 Then unzip the compressed file you just downloaded
 
