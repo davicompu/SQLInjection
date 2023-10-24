@@ -20,6 +20,7 @@ Link for reference https://docs.docker.com/engine/install/ubuntu/
 ### - Setup the docker repository
 
 > apt-get update
+
 > sudo apt-get install ca-certificates curl gnupg lsb-release
 
 ### - Add the GPG key
